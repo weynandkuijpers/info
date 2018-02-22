@@ -1,21 +1,12 @@
-# Resource Pool Definitions
+# Provisioning Process
 
-for our main definitions see:
+Information:
 
 - https://github.com/threefoldtoken/legal/blob/master/definitions.md
-- [cloud_units](concepts/cloud_units.md)
+- [cloud_units](concepts/cloud_units.md) : what is being sold from TF Grid
+- [resource_units](concepts/resource_units.md) : what is being provisioned & measured
+- [main calculator: tokens, hardware, ...](https://docs.google.com/spreadsheets/d/1TsrG_bvrPl1I4q6FLScLwZDfe5HJ_DWOfY9RjZ8fZI4/edit#gid=1306033097)
 
 
-## farming pool
-
-- a Farmer connects a Farming Pool to the TF Grid
-- a Farming Pool has capacity for x nr of resource units (specified per type)
-
-- farmer defines sales price in chosen currency per hardware unit
-- min amount of pre-paid tokens per customer
-
-
-## discount levels
-
-- depending nr pre-paid tokens e.g. 20% discount if more than 10000 TFT's pre-paid.
+[TODO](https://github.com/threefoldtoken/info/issues/1)
 
