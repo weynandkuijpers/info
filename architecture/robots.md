@@ -21,7 +21,7 @@
 - is where all the IT workloads are being provisioned
 - is always online, belongs to the user
 - will ask Farming Robot for IT Capacity resource (by means of Reservations)
-- the Node rebot will confirm directly to the IT Robot about how to access that IT Capacity, so the Farming Pool Robot has no access to the IT resource.
+- the Node robot will confirm directly to the IT Robot about how to access that IT Capacity, so the Farming Pool Robot has no access to the IT resource.
 
 ## Farming Pool Robot
 
