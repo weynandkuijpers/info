@@ -3,7 +3,7 @@
 for our main definitions see:
 
 - https://github.com/threefoldtoken/legal/blob/master/definitions.md
-- [concepts/cloud_units.md]
+- [cloud_units](concepts/cloud_units.md)
 
 
 ## farming pool
